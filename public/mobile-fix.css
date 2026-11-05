@@ -1,0 +1,102 @@
+/* v1.3: prevent horizontal page overflow on narrow Android viewports */
+html,
+body {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: clip;
+}
+body { position: relative; }
+main, header, footer, section, .section-shell, .section-tinted,
+.trust-strip, .closing-strip, .site-footer, .footer-main, .footer-bottom,
+.project-grid, .project-card, .contact-layout, .contact-form,
+.technology-grid, .technology-card, #dialog-content {
+  min-width: 0;
+  max-width: 100%;
+}
+img, svg, video, canvas { max-width: 100%; }
+.hero-visual, .about-art { min-width: 0; overflow: clip; }
+.hero-copy, .hero-note, .section-heading, .project-toolbar,
+.project-meta, .tag-row, .closing-strip > div, .footer-brand,
+.footer-col, .footer-bottom > * { min-width: 0; }
+.hero h1, .section h2, .about-copy h2, .contact-copy h2,
+.project-card h3, .project-card p, .footer-brand p { overflow-wrap: anywhere; }
+@media (max-width: 720px) {
+  .announcement { max-width: 100%; overflow: hidden; white-space: nowrap; }
+  .site-header { width: 100%; max-width: 100%; }
+  .hero-visual { width: 100%; }
+  .product-window { width: min(100%, 475px); }
+  .closing-strip { width: 100%; padding-left: 19px; padding-right: 19px; }
+  .closing-strip > div { align-items: flex-start; }
+  .closing-strip .button { max-width: 100%; white-space: normal; }
+  .site-footer { width: 100%; padding-left: 19px; padding-right: 19px; }
+  .footer-main { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .footer-brand { grid-column: 1 / -1; }
+  .footer-bottom { gap: 12px; }
+  .footer-bottom > span { overflow-wrap: anywhere; }
+  .footer-bottom > div { flex-wrap: wrap; gap: 12px; }
+}
+
+
+/* v1.5 launch QA: prevent intrinsic-width children from expanding mobile viewport */
+*, *::before, *::after { box-sizing: border-box; }
+html { width: 100%; max-width: 100%; overflow-x: hidden; }
+body { width: 100%; max-width: 100%; overflow-x: hidden; }
+main, header, footer, section, nav, .section-shell, .section,
+.hero, .hero-copy, .hero-visual, .about-layout, .contact-layout,
+.footer-main, .footer-bottom, .closing-strip, .technology-grid,
+.project-grid, .services-grid, .faq-list, .project-dialog,
+#dialog-content { min-width: 0; }
+.section-shell { width: 100%; }
+.hero h1, .hero-lede, .section-heading, .section-heading > *,
+.footer-brand, .footer-col, .footer-bottom > *,
+.closing-strip > *, .contact-copy, .contact-form,
+.project-card, .service-card, .technology-card { min-width: 0; }
+img, picture, video, canvas, svg { max-width: 100%; }
+button, a { overflow-wrap: anywhere; }
+.project-grid, .services-grid, .technology-grid {
+  grid-template-columns: repeat( auto-fit, minmax(min(100%, 230px), 1fr) );
+}
+.footer-main {
+  grid-template-columns: minmax(0, 1.35fr) repeat(3, minmax(0, 1fr));
+}
+.footer-bottom {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+.footer-bottom > div { display:flex; flex-wrap:wrap; gap:16px; }
+.social-links { display:flex; flex-wrap:wrap; max-width:100%; }
+.closing-strip {
+  width: min(100%, var(--max));
+  margin-inline: auto;
+}
+@media (max-width: 720px) {
+  .section-shell { padding-left: 18px; padding-right: 18px; }
+  .hero { width:100%; }
+  .hero h1 { max-width:100%; font-size:clamp(36px, 9.2vw, 54px); overflow-wrap:normal; }
+  .hero-visual { max-width:100%; }
+  .product-window { max-width:100%; }
+  .floating-card { max-width: min(48%, 190px); }
+  .trust-strip { width:100%; grid-template-columns:repeat(2,minmax(0,1fr)); }
+  .project-grid, .services-grid, .technology-grid {
+    grid-template-columns: repeat(2, minmax(0,1fr));
+  }
+  .footer-main { grid-template-columns:repeat(2,minmax(0,1fr)); gap:24px 18px; }
+  .footer-brand { grid-column:1 / -1; }
+  .footer-col { overflow-wrap:anywhere; }
+  .footer-bottom { align-items:flex-start; flex-direction:column; }
+  .footer-bottom > div { gap:12px 18px; }
+  .closing-strip { padding-left:18px; padding-right:18px; }
+  .closing-strip > div { min-width:0; }
+  .closing-strip .button { width:100%; }
+}
+@media (max-width: 390px) {
+  .section-shell { padding-left:15px; padding-right:15px; }
+  .project-grid, .services-grid, .technology-grid { grid-template-columns:minmax(0,1fr); }
+  .footer-main { grid-template-columns:repeat(2,minmax(0,1fr)); }
+  .footer-brand { grid-column:1 / -1; }
+  .footer-col a, .footer-brand p, .footer-bottom span { overflow-wrap:anywhere; }
+  .hero h1 { font-size:clamp(34px, 9vw, 40px); }
+  .hero-actions .button { width:100%; }
+}

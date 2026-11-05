@@ -1,0 +1,356 @@
+{
+  "codenix": [
+    {
+      "src": "/assets/projects/gallery/codenix-01.webp",
+      "title": "Product overview",
+      "story": "This supplied Codenix design image documents the visual direction for product overview. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Product overview design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-02.webp",
+      "title": "Project workspace",
+      "story": "This supplied Codenix design image documents the visual direction for project workspace. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Project workspace design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-03.webp",
+      "title": "Settings and preferences",
+      "story": "This supplied Codenix design image documents the visual direction for settings and preferences. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Settings and preferences design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-04.webp",
+      "title": "Notifications",
+      "story": "This supplied Codenix design image documents the visual direction for notifications. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Notifications design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-05.webp",
+      "title": "Create a project",
+      "story": "This supplied Codenix design image documents the visual direction for create a project. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Create a project design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-06.webp",
+      "title": "Welcome screen",
+      "story": "This supplied Codenix design image documents the visual direction for welcome screen. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Welcome screen design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-07.webp",
+      "title": "Project organization",
+      "story": "This supplied Codenix design image documents the visual direction for project organization. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Project organization design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-08.webp",
+      "title": "Product updates",
+      "story": "This supplied Codenix design image documents the visual direction for product updates. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Product updates design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-09.webp",
+      "title": "Brand identity",
+      "story": "This supplied Codenix design image documents the visual direction for brand identity. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Brand identity design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-10.webp",
+      "title": "Plan comparison concept",
+      "story": "This supplied Codenix design image documents the visual direction for plan comparison concept. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Plan comparison concept design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-11.webp",
+      "title": "AI coding concept",
+      "story": "This supplied Codenix design image documents the visual direction for ai coding concept. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix AI coding concept design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-12.webp",
+      "title": "Notifications overview",
+      "story": "This supplied Codenix design image documents the visual direction for notifications overview. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Notifications overview design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-13.webp",
+      "title": "Workspace overview",
+      "story": "This supplied Codenix design image documents the visual direction for workspace overview. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Workspace overview design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-14.webp",
+      "title": "Help and support",
+      "story": "This supplied Codenix design image documents the visual direction for help and support. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Help and support design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-15.webp",
+      "title": "Device management",
+      "story": "This supplied Codenix design image documents the visual direction for device management. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Device management design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-16.webp",
+      "title": "Workspace and navigation",
+      "story": "This supplied Codenix design image documents the visual direction for workspace and navigation. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Workspace and navigation design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-17.webp",
+      "title": "Profile and account",
+      "story": "This supplied Codenix design image documents the visual direction for profile and account. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Profile and account design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-18.webp",
+      "title": "Project dashboard",
+      "story": "This supplied Codenix design image documents the visual direction for project dashboard. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Project dashboard design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-19.webp",
+      "title": "Legal and policies",
+      "story": "This supplied Codenix design image documents the visual direction for legal and policies. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Legal and policies design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-20.webp",
+      "title": "Code workspace",
+      "story": "This supplied Codenix design image documents the visual direction for code workspace. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Code workspace design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-21.webp",
+      "title": "Workflow overview",
+      "story": "This supplied Codenix design image documents the visual direction for workflow overview. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Workflow overview design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-22.webp",
+      "title": "Profile settings",
+      "story": "This supplied Codenix design image documents the visual direction for profile settings. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Profile settings design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-23.webp",
+      "title": "Settings overview",
+      "story": "This supplied Codenix design image documents the visual direction for settings overview. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Settings overview design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-24.webp",
+      "title": "Search and explore",
+      "story": "This supplied Codenix design image documents the visual direction for search and explore. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Search and explore design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-25.webp",
+      "title": "Cloud sync concept",
+      "story": "This supplied Codenix design image documents the visual direction for cloud sync concept. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Cloud sync concept design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-26.webp",
+      "title": "Security and privacy",
+      "story": "This supplied Codenix design image documents the visual direction for security and privacy. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Security and privacy design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-27.webp",
+      "title": "Brand splash screen",
+      "story": "This supplied Codenix design image documents the visual direction for brand splash screen. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Brand splash screen design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-28.webp",
+      "title": "Product landing concept",
+      "story": "This supplied Codenix design image documents the visual direction for product landing concept. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Product landing concept design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-29.webp",
+      "title": "Project templates",
+      "story": "This supplied Codenix design image documents the visual direction for project templates. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Project templates design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-30.webp",
+      "title": "AI assistant concept",
+      "story": "This supplied Codenix design image documents the visual direction for ai assistant concept. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix AI assistant concept design screen"
+    },
+    {
+      "src": "/assets/projects/gallery/codenix-31.webp",
+      "title": "Code editor concept",
+      "story": "This supplied Codenix design image documents the visual direction for code editor concept. It is presented as a design artifact; depicted interactions are not proof of a live implementation.",
+      "alt": "Codenix Code editor concept design screen"
+    }
+  ],
+  "titan": [
+    {
+      "src": "/assets/projects/gallery/titan-01.webp",
+      "title": "Fitness product overview",
+      "story": "This supplied Titan Fitness image explores fitness product overview within the fitness product direction. It documents design progress, not a verified production feature.",
+      "alt": "Titan Fitness Fitness product overview design image"
+    },
+    {
+      "src": "/assets/projects/gallery/titan-02.webp",
+      "title": "Member dashboard concept",
+      "story": "This supplied Titan Fitness image explores member dashboard concept within the fitness product direction. It documents design progress, not a verified production feature.",
+      "alt": "Titan Fitness Member dashboard concept design image"
+    },
+    {
+      "src": "/assets/projects/gallery/titan-03.webp",
+      "title": "Training and progress panels",
+      "story": "This supplied Titan Fitness image explores training and progress panels within the fitness product direction. It documents design progress, not a verified production feature.",
+      "alt": "Titan Fitness Training and progress panels design image"
+    },
+    {
+      "src": "/assets/projects/gallery/titan-04.webp",
+      "title": "Workout interface exploration",
+      "story": "This supplied Titan Fitness image explores workout interface exploration within the fitness product direction. It documents design progress, not a verified production feature.",
+      "alt": "Titan Fitness Workout interface exploration design image"
+    },
+    {
+      "src": "/assets/projects/gallery/titan-05.webp",
+      "title": "Program and routine cards",
+      "story": "This supplied Titan Fitness image explores program and routine cards within the fitness product direction. It documents design progress, not a verified production feature.",
+      "alt": "Titan Fitness Program and routine cards design image"
+    },
+    {
+      "src": "/assets/projects/gallery/titan-06.webp",
+      "title": "Member and service views",
+      "story": "This supplied Titan Fitness image explores member and service views within the fitness product direction. It documents design progress, not a verified production feature.",
+      "alt": "Titan Fitness Member and service views design image"
+    },
+    {
+      "src": "/assets/projects/gallery/titan-07.webp",
+      "title": "Training data and metrics",
+      "story": "This supplied Titan Fitness image explores training data and metrics within the fitness product direction. It documents design progress, not a verified production feature.",
+      "alt": "Titan Fitness Training data and metrics design image"
+    },
+    {
+      "src": "/assets/projects/gallery/titan-08.webp",
+      "title": "Fitness component library",
+      "story": "This supplied Titan Fitness image explores fitness component library within the fitness product direction. It documents design progress, not a verified production feature.",
+      "alt": "Titan Fitness Fitness component library design image"
+    },
+    {
+      "src": "/assets/projects/gallery/titan-09.webp",
+      "title": "Visual identity and UI states",
+      "story": "This supplied Titan Fitness image explores visual identity and ui states within the fitness product direction. It documents design progress, not a verified production feature.",
+      "alt": "Titan Fitness Visual identity and UI states design image"
+    }
+  ],
+  "leadforge": [
+    {
+      "src": "/assets/projects/gallery/leadforge-01.webp",
+      "title": "Lead research product overview",
+      "story": "This supplied LeadForge AI image explores lead research product overview for a lead-research workflow concept. It is a design artifact; live enrichment, integrations and automation are not implied.",
+      "alt": "LeadForge AI Lead research product overview design image"
+    },
+    {
+      "src": "/assets/projects/gallery/leadforge-02.webp",
+      "title": "Brand and component system",
+      "story": "This supplied LeadForge AI image explores brand and component system for a lead-research workflow concept. It is a design artifact; live enrichment, integrations and automation are not implied.",
+      "alt": "LeadForge AI Brand and component system design image"
+    },
+    {
+      "src": "/assets/projects/gallery/leadforge-03.webp",
+      "title": "Lead dashboard concept",
+      "story": "This supplied LeadForge AI image explores lead dashboard concept for a lead-research workflow concept. It is a design artifact; live enrichment, integrations and automation are not implied.",
+      "alt": "LeadForge AI Lead dashboard concept design image"
+    },
+    {
+      "src": "/assets/projects/gallery/leadforge-04.webp",
+      "title": "Pipeline overview",
+      "story": "This supplied LeadForge AI image explores pipeline overview for a lead-research workflow concept. It is a design artifact; live enrichment, integrations and automation are not implied.",
+      "alt": "LeadForge AI Pipeline overview design image"
+    },
+    {
+      "src": "/assets/projects/gallery/leadforge-05.webp",
+      "title": "Prospect research workspace",
+      "story": "This supplied LeadForge AI image explores prospect research workspace for a lead-research workflow concept. It is a design artifact; live enrichment, integrations and automation are not implied.",
+      "alt": "LeadForge AI Prospect research workspace design image"
+    },
+    {
+      "src": "/assets/projects/gallery/leadforge-06.webp",
+      "title": "Analytics overview",
+      "story": "This supplied LeadForge AI image explores analytics overview for a lead-research workflow concept. It is a design artifact; live enrichment, integrations and automation are not implied.",
+      "alt": "LeadForge AI Analytics overview design image"
+    },
+    {
+      "src": "/assets/projects/gallery/leadforge-07.webp",
+      "title": "Conversion funnel concept",
+      "story": "This supplied LeadForge AI image explores conversion funnel concept for a lead-research workflow concept. It is a design artifact; live enrichment, integrations and automation are not implied.",
+      "alt": "LeadForge AI Conversion funnel concept design image"
+    },
+    {
+      "src": "/assets/projects/gallery/leadforge-08.webp",
+      "title": "Service performance dashboard",
+      "story": "This supplied LeadForge AI image explores service performance dashboard for a lead-research workflow concept. It is a design artifact; live enrichment, integrations and automation are not implied.",
+      "alt": "LeadForge AI Service performance dashboard design image"
+    },
+    {
+      "src": "/assets/projects/gallery/leadforge-09.webp",
+      "title": "Location analysis concept",
+      "story": "This supplied LeadForge AI image explores location analysis concept for a lead-research workflow concept. It is a design artifact; live enrichment, integrations and automation are not implied.",
+      "alt": "LeadForge AI Location analysis concept design image"
+    },
+    {
+      "src": "/assets/projects/gallery/leadforge-10.webp",
+      "title": "Business type analytics",
+      "story": "This supplied LeadForge AI image explores business type analytics for a lead-research workflow concept. It is a design artifact; live enrichment, integrations and automation are not implied.",
+      "alt": "LeadForge AI Business type analytics design image"
+    },
+    {
+      "src": "/assets/projects/gallery/leadforge-11.webp",
+      "title": "Lead growth metrics",
+      "story": "This supplied LeadForge AI image explores lead growth metrics for a lead-research workflow concept. It is a design artifact; live enrichment, integrations and automation are not implied.",
+      "alt": "LeadForge AI Lead growth metrics design image"
+    },
+    {
+      "src": "/assets/projects/gallery/leadforge-12.webp",
+      "title": "Prospect management views",
+      "story": "This supplied LeadForge AI image explores prospect management views for a lead-research workflow concept. It is a design artifact; live enrichment, integrations and automation are not implied.",
+      "alt": "LeadForge AI Prospect management views design image"
+    },
+    {
+      "src": "/assets/projects/gallery/leadforge-13.webp",
+      "title": "Product screen collection",
+      "story": "This supplied LeadForge AI image explores product screen collection for a lead-research workflow concept. It is a design artifact; live enrichment, integrations and automation are not implied.",
+      "alt": "LeadForge AI Product screen collection design image"
+    },
+    {
+      "src": "/assets/projects/gallery/leadforge-14.webp",
+      "title": "Workflow dashboard",
+      "story": "This supplied LeadForge AI image explores workflow dashboard for a lead-research workflow concept. It is a design artifact; live enrichment, integrations and automation are not implied.",
+      "alt": "LeadForge AI Workflow dashboard design image"
+    },
+    {
+      "src": "/assets/projects/gallery/leadforge-15.webp",
+      "title": "Lead research and scoring",
+      "story": "This supplied LeadForge AI image explores lead research and scoring for a lead-research workflow concept. It is a design artifact; live enrichment, integrations and automation are not implied.",
+      "alt": "LeadForge AI Lead research and scoring design image"
+    },
+    {
+      "src": "/assets/projects/gallery/leadforge-16.webp",
+      "title": "Outreach preparation flow",
+      "story": "This supplied LeadForge AI image explores outreach preparation flow for a lead-research workflow concept. It is a design artifact; live enrichment, integrations and automation are not implied.",
+      "alt": "LeadForge AI Outreach preparation flow design image"
+    },
+    {
+      "src": "/assets/projects/gallery/leadforge-17.webp",
+      "title": "Mobile onboarding screens",
+      "story": "This supplied LeadForge AI image explores mobile onboarding screens for a lead-research workflow concept. It is a design artifact; live enrichment, integrations and automation are not implied.",
+      "alt": "LeadForge AI Mobile onboarding screens design image"
+    },
+    {
+      "src": "/assets/projects/gallery/leadforge-18.webp",
+      "title": "Lead analytics and reporting",
+      "story": "This supplied LeadForge AI image explores lead analytics and reporting for a lead-research workflow concept. It is a design artifact; live enrichment, integrations and automation are not implied.",
+      "alt": "LeadForge AI Lead analytics and reporting design image"
+    }
+  ]
+}

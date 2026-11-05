@@ -1,0 +1,16 @@
+node_modules/
+.env
+.DS_Store
+npm-debug.log*
+coverage/
+
+# Environment secrets
+.env*
+!.env.example
+
+# Runtime uploads and generated files
+public/uploads/*
+!public/uploads/.gitkeep
+uploads/
+audit-report.json
+node_modules/
