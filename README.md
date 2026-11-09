@@ -155,3 +155,8 @@ The current upload adapter writes to the Node server filesystem. This works loca
 4. Apply the updated `src/schema.sql` to the existing database; the published-column migration is non-destructive.
 5. Run `npm run check` and `npm test`.
 6. Configure a persistent media storage adapter before production uploads on an ephemeral host.
+
+
+## Cloudflare deployment note
+
+See [CLOUDFLARE-DEPLOY.md](./CLOUDFLARE-DEPLOY.md). The current v1.7 backend is Express + PostgreSQL and local disk uploads; only the static portfolio can be safely deployed to Pages until the API/database/upload migration is completed. Do not deploy it as a Worker unchanged.

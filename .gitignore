@@ -4,13 +4,7 @@ node_modules/
 npm-debug.log*
 coverage/
 
-# Environment secrets
-.env*
-!.env.example
-
-# Runtime uploads and generated files
-public/uploads/*
-!public/uploads/.gitkeep
+# Runtime uploads and generated reports
+public/uploads/
 uploads/
 audit-report.json
-node_modules/
