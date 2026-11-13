@@ -8,3 +8,8 @@ coverage/
 public/uploads/
 uploads/
 audit-report.json
+
+# Local migration and test artifacts
+*.db
+*.db-journal
+seed-projects.backup.sql
